@@ -6,12 +6,12 @@ namespace test.test
 {
     public class a : MonoBehaviour
     {
-        public static string hello = "hello";
+        public static string hello = "hello form test branch";
 
         // Start is called before the first frame update
         void Start()
         {
-            Debug.Log("hello");
+            Debug.Log(hello);
         }
 
         // Update is called once per frame
