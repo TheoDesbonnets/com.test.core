@@ -1,7 +1,6 @@
 {
 	"name": "com.test.core",
 	"displayName": "UMI3D SDK",
-	"version": "1.0",
 	"unity": "2019.3",
 	"author": "Gfi Innovation",
 	"description": "Test"
